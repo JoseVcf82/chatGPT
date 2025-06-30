@@ -1,1 +1,10 @@
-Inicio
+# Web Increíble
+
+Este repositorio contiene una página web sencilla escrita en HTML, CSS y JavaScript.
+
+## Archivos
+- `index.html`: Página principal.
+- `style.css`: Estilos de la página.
+- `script.js`: Lógica para mostrar un mensaje al pulsar el botón.
+
+Para ver la página, abre `index.html` en tu navegador.
